@@ -9,7 +9,7 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,ts,js,vue,html,css,swift,solidity,postgres,linux,git,github,docker" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=github,python,java,spring,go,mysql,linux,docker,kafka,elasticsearch" alt="Tech stack icons" />
 </div>
 
 ## GitHub Stats
