@@ -2,7 +2,7 @@
 
 # Hi, this is Gxyrious.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=CE1D2D&center=true&vCenter=true&width=620&lines=Graduate+student+%40+Tongji+University;Exploring+data%2C+systems%2C+and+AI;Building+quietly%2C+shipping+carefully)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=CE1D2D&center=true&vCenter=true&width=620&lines=Vibe+Coder+%40+Codex+ClaudeCode;Exploring+data%2C+systems%2C+and+AI;Building+quietly%2C+shipping+carefully)](https://git.io/typing-svg)
 
 </div>
 
