@@ -1,6 +1,29 @@
-### Hi, this is Gxyrious. 👋
+<div align="center">
 
-👀 I'm a second-year graduate student in Tongji University.
+# Hi, this is Gxyrious.
 
-<img align="middle" src="https://github-readme-stats.vercel.app/api?username=Gxyrious&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=CE1D2D&center=true&vCenter=true&width=620&lines=Graduate+student+%40+Tongji+University;Exploring+data%2C+systems%2C+and+AI;Building+quietly%2C+shipping+carefully)](https://git.io/typing-svg)
 
+</div>
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,cs,ts,js,vue,html,css,swift,solidity,postgres,linux,git,github,docker" alt="Tech stack icons" />
+</div>
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gxyrious&theme=transparent" alt="Gxyrious GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Gxyrious&hide_border=true&background=00000000&ring=CE1D2D&fire=CE1D2D&currStreakLabel=CE1D2D&sideLabels=586069&dates=586069&sideNums=24292f&currStreakNum=24292f" alt="Gxyrious GitHub streak" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gxyrious&theme=transparent" alt="Gxyrious repository languages" />
+</div>
+
+## Galaga Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gxyrious/Gxyrious/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gxyrious/Gxyrious/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/Gxyrious/Gxyrious/output/galaga-contribution-graph.svg">
+</picture>
