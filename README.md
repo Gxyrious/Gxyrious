@@ -16,7 +16,6 @@
 
 <div align="center">
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gxyrious&theme=transparent" alt="Gxyrious GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=Gxyrious&hide_border=true&background=00000000&ring=CE1D2D&fire=CE1D2D&currStreakLabel=CE1D2D&sideLabels=586069&dates=586069&sideNums=24292f&currStreakNum=24292f" alt="Gxyrious GitHub streak" />
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gxyrious&theme=transparent" alt="Gxyrious repository languages" />
 </div>
 
